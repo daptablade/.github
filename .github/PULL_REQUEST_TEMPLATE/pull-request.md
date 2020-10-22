@@ -1,3 +1,8 @@
+---
+name: Standard pull-request
+about: Use this template if you don't see a more appropriate one.
+---
+
 # Describe the contents of a pull-requests
 
 > short description: include user story, any linked PRs, big picture, goals.

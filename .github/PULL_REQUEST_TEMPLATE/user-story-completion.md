@@ -1,3 +1,8 @@
+---
+name: User story completion
+about: Use this template if you've completed a user story.
+---
+
 # Describe the contents of a pull-requests
 
 > short description: include user story, any linked PRs, big picture, goals.
